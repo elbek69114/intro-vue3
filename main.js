@@ -5,3 +5,4 @@ const app = Vue.createApp({
         }
     }
 })
+const product = 'Socks'
